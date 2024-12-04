@@ -18,12 +18,12 @@ A fun and interactive Python program that generates a unique band name based on 
 3. Run the program: python main.py
 
 ## 📂 Example
-Welcome to the Band Name Generator!
-What's the name of the city you grew up in?
-New York
-What's your favorite pet's name?
-Fluffy
-Your band name could be: New York Fluffy
+- Welcome to the Band Name Generator!
+- What's the name of the city you grew up in?
+- New York
+- What's your favorite pet's name?
+- Fluffy
+- Your band name could be: New York Fluffy
 
    
 
