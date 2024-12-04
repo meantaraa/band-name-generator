@@ -29,7 +29,7 @@ A fun and interactive Python program that generates a unique band name based on 
 Feel free to fork this repository, make enhancements, and submit a pull request. Contributions are welcome!
 
 ## 🌟 Show Your Support
-If you like this project, please give it a ⭐ on GitHub!
+If you like this project then don't forget to give it a ⭐ on GitHub!😉
 
    
 
